@@ -1,0 +1,30 @@
+_repo: Memorias-de-um-pobre-diabo_31906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seabra, Bruno
+    aliases:
+    - Almeida Seabra, Bruno Henriques de
+    - Henriques de Almeida Seabra, Bruno
+    - De Almeida Seabra, Bruno Henriques
+    birthdate: 1837
+    deathdate: 1876
+    gutenberg_agent_id: '35546'
+    url: http://www.gutenberg.org/2009/agents/35546
+description: ''
+gutenberg_issued: '2010-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31906'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Memorias de um pobre diabo
+url: http://www.gutenberg.org/ebooks/31906
